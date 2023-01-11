@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-11T09:40:09 EST" name="Default suite" finished-at="2023-01-11T09:40:18 EST" duration-ms="9525">
+    <groups>
+    </groups>
+    <test started-at="2023-01-11T09:40:09 EST" name="Default test" finished-at="2023-01-11T09:40:18 EST" duration-ms="9525">
+      <class name="automation.Scenario">
+        <test-method is-config="true" signature="startchromebrowser()[pri:0, instance:automation.Scenario@4f6ee6e4]" started-at="2023-01-11T09:40:09 EST" name="startchromebrowser" finished-at="2023-01-11T09:40:14 EST" duration-ms="5156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startchromebrowser -->
+        <test-method signature="userupdatecalvalues()[pri:0, instance:automation.Scenario@4f6ee6e4]" started-at="2023-01-11T09:40:14 EST" name="userupdatecalvalues" finished-at="2023-01-11T09:40:18 EST" duration-ms="4146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userupdatecalvalues -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:automation.Scenario@4f6ee6e4]" started-at="2023-01-11T09:40:18 EST" name="closebrowser" finished-at="2023-01-11T09:40:18 EST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- automation.Scenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
